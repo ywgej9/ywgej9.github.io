@@ -11,12 +11,24 @@ I'm a PhD student in Statistics and Data Sciences at UT Austin.
 
 My research focus on Bayesian modeling for time series and network data, as well as designing scalable inference for large dataset.
 
-<h2 style="margin-bottom: 10px;">Education</h2>
-<h3 style="margin-bottom: 5px; margin-top: 10px;">UT Austin, PhD in Statistics and Data Sciences</h3>
-<p style="margin-top: 5px;">Aug 2020 - Dec 2025/ May 2026 (expected)</p>
+## Education  
+**UT Austin, PhD in Statistics and Data Sciences**  
+Aug 2020 - Dec 2025/ May 2026 (expected)
 
-<h3 style="margin-bottom: 5px; margin-top: 15px;">Duke University, Master of Science in Statistics</h3>
-<p style="margin-top: 5px;">Aug 2018 - May 2020</p>
+**Duke University, Master of Science in Statistics**  
+Aug 2018 - May 2020
 
-<h3 style="margin-bottom: 5px; margin-top: 15px;">The University of Bristol, BSc in Economics and Mathematics (First Class Honours)</h3>
-<p style="margin-top: 5px;">Sept 2015 - Jul 2018</p>
+**The University of Bristol, BSc in Economics and Mathematics (First Class Honours)**  
+Sept 2015 - Jul 2018
+
+## Selected Experience  
+**Computer Science Graduate Intern** at Memorial Sloan Kettering Cancer Center  
+May 2024 - Aug 2024
+
+**Summer Research Intern** at Genentech  
+May 2023 - Aug 2023
+
+**Machine Learning Research Assistant** at The University of Bristol  
+May 2018 - Aug 2018
+
+**Teaching Assistant** for classes including probabilistic machine learning, data science, statistics and optimization
