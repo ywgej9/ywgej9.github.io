@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Statistics at The University of Texas at Austin, where my research focuses on developing probabilistic machine learning methods for time series and network data. I develop flexible Bayesian modeling frameworks that combine probabilistic graphical models with deep learning, using scalable inference techniques like Autoencoding Variational Bayes. My work aims to bridge statistical rigor with computational scalability, creating interpretable models that can capture complex dependencies in high-dimensional datasets, with applications spanning temporal dynamics, network interactions, and structured prediction problems.
+I am a PhD candidate in Statistics at The University of Texas at Austin, where my research focuses on developing probabilistic machine learning methods for time series and network data. I develop flexible Bayesian modeling frameworks that combine probabilistic graphical models with deep learning, using scalable inference techniques like Autoencoding Variational Bayes. My work aims to bridge statistical rigor with computational scalability, creating interpretable models that can capture complex dependencies in high-dimensional datasets, with applications spanning temporal dynamics, network interactions, and structured prediction problems. Beyond my research, I'm passionate about music and movement-- I play the violin, practice ballet, and enjoy volleyball, tennis and bouldering!
 
 ## Education  
 **UT Austin, PhD in Statistics and Data Sciences**  
