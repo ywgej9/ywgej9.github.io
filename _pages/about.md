@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in Statistics and Data Sciences at UT Austin. 
-
-My research focus on Bayesian modeling for time series and network data, as well as designing scalable inference for large dataset.
+I am a PhD candidate in Statistics at The University of Texas at Austin, where my research focuses on developing probabilistic machine learning methods for time series and network data. I develop flexible Bayesian modeling frameworks that combine probabilistic graphical models with deep learning, using scalable inference techniques like Autoencoding Variational Bayes. My work aims to bridge statistical rigor with computational scalability, creating interpretable models that can capture complex dependencies in high-dimensional datasets, with applications spanning temporal dynamics, network interactions, and structured prediction problems.
 
 ## Education  
 **UT Austin, PhD in Statistics and Data Sciences**  
